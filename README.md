@@ -48,11 +48,11 @@ Open your browser on http://localhost:3000
 Manual end to end test has been performed for the time being
 - Adding a new task: 
 <img width="1236" alt="add_new_todo" src="https://user-images.githubusercontent.com/10267937/168760979-eaa12642-27af-49a8-824e-2414c3a28cb0.png">
-<img width="1207" alt="new_todo_dragged_completed" src="https://user-images.githubusercontent.com/10267937/168761014-25255a69-4a25-4900-b3ce-126ec831546e.png">
+<img width="426" alt="new_todo_added_on_awaiting" src="https://user-images.githubusercontent.com/10267937/168761059-8ca3ef53-d313-4098-afff-f3ad7a3cde42.png">
 
 - Drag and Drop feature
-- <img width="1263" alt="drag_and_drop" src="https://user-images.githubusercontent.com/10267937/168761044-1234ff70-33b8-403b-ae19-934ffb47655f.png">
-<img width="426" alt="new_todo_added_on_awaiting" src="https://user-images.githubusercontent.com/10267937/168761059-8ca3ef53-d313-4098-afff-f3ad7a3cde42.png">
+<img width="1263" alt="drag_and_drop" src="https://user-images.githubusercontent.com/10267937/168761044-1234ff70-33b8-403b-ae19-934ffb47655f.png">
+<img width="1207" alt="new_todo_dragged_completed" src="https://user-images.githubusercontent.com/10267937/168761014-25255a69-4a25-4900-b3ce-126ec831546e.png">
 
 ## 6. Deployment
 
